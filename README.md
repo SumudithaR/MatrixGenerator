@@ -50,7 +50,7 @@ Running... Please wait!
  0.254212  0.269717  0.279912  0.284270  0.282571</br>
  0.235722  0.256231  0.272113  0.282571  0.287076</br>
 
-Finished running!
+Finished running! </br>
 Time taken: 8.0745ms
 
 ## Running the tests
