@@ -6,7 +6,7 @@ This console application generates a matrix when provided with a text file conta
 
 To run the application, please follow the steps below. 
 1. Download and install .NET Framework 4.6.1, if not installed on the machine (https://www.microsoft.com/en-gb/download/details.aspx?id=49981).
-2. Download the source code or clone the repository using git tools or Microsoft Visual Studio. 
+2. Download the source code or clone the repository using Git tools or Microsoft Visual Studio. 
 
 ### Prerequisites
 
@@ -36,7 +36,8 @@ For example: "C:\Repos\MatrixGenerator\MatrixGenerator\MatrixGenerator.Console\b
 2. Open a new Command Prompt window and navigate to the above location
 3. Run the "MatrixGenerator.Console.exe" with the three command line arguments; the fully qualified data file location, the value of "c" and the value of "N", respectively.  </br>
 For example: MatrixGenerator.Console.exe "C:\Users\Abc\Desktop\TrendControlSystems\Test\TEST.PRN" 4 300 </br>
-Ensurethat that the file path is sourrounded by quotes (") </br>
+In the above example c=4 and N=300   </br>
+Ensure that that the file path is sourrounded by quotes (") </br>
 
 ### Expected Output 
 
