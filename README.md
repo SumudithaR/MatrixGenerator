@@ -1,17 +1,17 @@
 # MatrixGenerator
 
-This console application generates a matrix when provided with a text file containing floating point numbers with one on each line, a value for c and value for N.
+This console application generates a matrix when provided with a text file containing floating point numbers with one on each line, a value for "c" and value for "N". Both "c" and "N" must be integers. A summation formula is used to generate the value of each cell in the matrix. 
 
 ## Getting Started
 
 To run the application, please follow the steps below. 
-1. Download and install .NET Framework 4.6.1 if it is not installed on the machine (https://www.microsoft.com/en-gb/download/details.aspx?id=49981).
-2. Download the source code or clone the repository using git tools or Visual Studio. 
+1. Download and install .NET Framework 4.6.1, if not installed on the machine (https://www.microsoft.com/en-gb/download/details.aspx?id=49981).
+2. Download the source code or clone the repository using git tools or Microsoft Visual Studio. 
 
 ### Prerequisites
 
 * .NET Framework 4.6.1
-* Visual Studio 2015 or Above 
+* Microsoft Visual Studio 2015 or Above 
 
 ### Running the application
 
@@ -32,11 +32,11 @@ Ensure the file path is surrounded by quotes (")
 
 ### Running in Command Prompt
 1. Once the solution is built in Visual Studio, navigate to the location of the "Debug" mode output folder of the "MatrixGenerator.Console" project. 
-   For example: "C:\Repos\MatrixGenerator\MatrixGenerator\MatrixGenerator.Console\bin\Debug"
+For example: "C:\Repos\MatrixGenerator\MatrixGenerator\MatrixGenerator.Console\bin\Debug" 
 2. Open a new Command Prompt window and navigate to the above location
 3. Run the "MatrixGenerator.Console.exe" with the three command line arguments; the fully qualified data file location, the value of "c" and the value of "N", respectively.  
 For example: MatrixGenerator.Console.exe "C:\Users\Abc\Desktop\TrendControlSystems\Test\TEST.PRN" 4 300
-Ensure the file path is sourrounded by quotes (")
+Ensurethat that the file path is sourrounded by quotes (")
 
 ### Expected Output 
 
@@ -55,7 +55,7 @@ Time taken: 8.0745ms
 
 ## Running the tests
 
-1. Once the solution is built in Visual Studio, click "All Tests" under "Test" > "Run".
+1. Once the solution is built in Visual Studio, click "All Tests" under "Run" sub-menu of the "Test" menu.
 2. The "Test Explorer" window will display the output.
 
 ## Authors
