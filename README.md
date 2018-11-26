@@ -8,12 +8,12 @@ To run the application, please follow the steps below.
 1. Download and install .NET Framework 4.6.1, if not installed on the machine (https://www.microsoft.com/en-gb/download/details.aspx?id=49981).
 2. Download the source code or clone the repository using Git tools or Microsoft Visual Studio. 
 
-### Prerequisites
+## Prerequisites
 
 * .NET Framework 4.6.1
 * Microsoft Visual Studio 2015 or Above 
 
-### Running the application
+## Running the application
 
 1. Once the source code is downloaded, open the solution file "MatrixGenerator.sln" inside the "MatrixGenerator" solution folder.</br>
 For example: C:\Repos\MatrixGenerator\MatrixGenerator\MatrixGenerator.sln
