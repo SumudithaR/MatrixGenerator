@@ -28,7 +28,7 @@ For example: "C:\Users\Abc\Desktop\TrendControlSystems\Test\TEST.PRN" 4 300
 Each argument must have a space between them and in the above example c=4 and N=300   
 Ensure the file path is surrounded by quotes (")
 4. Set "MatrixGenerator.Console" as the StartUp Project
-5. Click "Start Debugging" under the "Debug" menu or press "F5"
+5. Click "Start Debugging" under the "Debug" menu or press "F5" 
 
 ### Running in Command Prompt
 1. Once the solution is built in Visual Studio, navigate to the location of the "Debug" mode output folder of the "MatrixGenerator.Console" project. 
