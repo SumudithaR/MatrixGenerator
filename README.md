@@ -55,7 +55,7 @@ Running... Please wait!
 Finished running! </br>
 Time taken: 8.0745ms
 
-## Running the tests
+## Running the Unit Tests
 
 1. Once the solution is built in Visual Studio, click "All Tests" under "Run" sub-menu of the "Test" menu.
 2. The "Test Explorer" window will display the output.
