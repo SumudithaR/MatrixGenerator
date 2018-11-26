@@ -18,7 +18,8 @@ To run the application, please follow the steps below.
 1. Once the source code is downloaded, open the solution file "MatrixGenerator.sln" inside the "MatrixGenerator" solution folder.</br>
 For example: C:\Repos\MatrixGenerator\MatrixGenerator\MatrixGenerator.sln
 2. Set the "Solution Configuration" to "Debug" mode
-3. Click "Build Solution" under the "Build" menu or press "F6"
+3. Right-click the solution in "Solution Explorer" and click "Restore NuGet Packages"
+4. Once the restore completes, click "Build Solution" under the "Build" menu or press "F6"
 
 ### Running in Debug mode 
 1. Once the solution is built in Visual Studio, go to "Solution Explorer" and right-click on the "MatrixGenerator.Console" project
